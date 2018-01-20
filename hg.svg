@@ -1,0 +1,76 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 736.63 301.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-11, .cls-2, .cls-9 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 36px;
+        font-family: PlayfairDisplay-Regular, Playfair Display;
+        letter-spacing: 0.44em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.39em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.44em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.4em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.43em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.43em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.41em;
+      }
+
+      .cls-11, .cls-9 {
+        font-size: 65px;
+        font-family: PlayfairDisplay-Italic, Playfair Display;
+        font-style: italic;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </defs>
+  <title>hg</title>
+  <g>
+    <rect class="cls-1" x="2" y="2" width="732.63" height="297.02"/>
+    <text class="cls-2" transform="translate(88.47 211.45) scale(1.04 1)">CRE<tspan class="cls-3" x="117.32" y="0">A</tspan><tspan class="cls-4" x="153.97" y="0">TIVE</tspan><tspan class="cls-5" x="296.21" y="0"> </tspan><tspan class="cls-6" x="319.71" y="0">A</tspan><tspan class="cls-4" x="357.8" y="0">GE</tspan><tspan class="cls-7" x="436.57" y="0">N</tspan><tspan class="cls-4" x="477.5" y="0">C</tspan><tspan class="cls-8" x="518.04" y="0">Y</tspan></text>
+    <g>
+      <text class="cls-9" transform="translate(378.96 150.88) scale(1.01 1)">G<tspan class="cls-10" x="47.38" y="0">r</tspan><tspan x="75.34" y="0">eene</tspan></text>
+      <text class="cls-11" transform="translate(149.79 150.88) scale(1.01 1)">H<tspan class="cls-12" x="48.94" y="0">arper</tspan></text>
+    </g>
+  </g>
+</svg>
