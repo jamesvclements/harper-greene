@@ -3,11 +3,23 @@ html, body, .container { width:100%; height:100%; margin:0;  }
 .container {
   background-color: #F8F9F9;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 .logo {
+  width: 75%;
   max-width: 400px;
-  width: 50%;
+  background-color: white;
+  box-shadow: 0 10px 6px -6px lightgrey;
+}
+
+.description {
+  width: 75%;
+  max-width: 400px;
+  font-family: 'Playfair Display', serif;
+  margin-top: 100px;
+  text-align: center;
 }
