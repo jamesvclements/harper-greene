@@ -1,25 +1,64 @@
-html, body, .container { width:100%; height:100%; margin:0;  }
-
+html,
+body,
 .container {
-  background-color: #F8F9F9;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: #f8f9f9;
+  font-family: 'Playfair Display', serif;
+}
+
+.logo-container, .description-container, .cta-container {
+  width: 75%;
+  max-width: 400px;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  margin: 0 auto;
+}
+
+.logo-container {
+  height: 50%;
 }
 
 .logo {
-  width: 75%;
-  max-width: 400px;
   background-color: white;
   box-shadow: 0 10px 6px -6px lightgrey;
+  width: 100%;
 }
 
-.description {
-  width: 75%;
-  max-width: 400px;
-  font-family: 'Playfair Display', serif;
-  margin-top: 100px;
+.description-container {
+  height: 40%;
   text-align: center;
+  align-items: flex-start;
+}
+
+.cta-container {
+  height: 10%;
+  font-size: small;
+  color: darkslategrey;
+  justify-content: space-around;
+}
+
+.location, .contact {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:inherit;
+  text-decoration: none;
+}
+
+.location-icon, .contact-icon {
+  fill: darkslategrey;
+}
+
+.location-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.contact-icon {
+  width: 40px;
+  height: 25px;
 }
